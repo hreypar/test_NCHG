@@ -1,0 +1,17 @@
+name: hiedge
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - dask
+  - matplotlib
+  - numpy
+  - pandas
+  - pandera
+  - pybedtools
+  - pydantic
+  - PyYAML
+  - scikit-learn
+  - scipy
+
